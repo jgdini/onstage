@@ -8,10 +8,9 @@
     try{
       var q = new URLSearchParams(location.search).get('lang');
       if (KEYS[q]) return q;
-      var s = localStorage.getItem('os-lang'); if (KEYS[s]) return s;
+      var s = localStorage.getItem('os-lang-choice'); if (KEYS[s]) return s;
     }catch(e){}
-    var n = (navigator.language||'en').slice(0,2).toLowerCase();
-    return KEYS[n] ? n : 'en';
+    return 'en';
   }
 
   function tr(key, lang){ var r = T[key]; return r ? r[KEYS[lang]] : ''; }
@@ -33,14 +32,16 @@
     });
     var tg = document.querySelector('.slot-toggle');
     if (tg) tg.textContent = tr(document.body.classList.contains('show-slots') ? 'slots.off' : 'slots.on', lang);
-    try{ localStorage.setItem('os-lang', lang); }catch(e){}
     window.OS_LANG = lang;
   }
 
   var lang = getLang();
   apply(lang);
   document.querySelectorAll('.lang button').forEach(function(b){
-    b.addEventListener('click', function(){ lang = b.dataset.l; apply(lang); });
+    b.addEventListener('click', function(){
+      lang = b.dataset.l; apply(lang);
+      try{ localStorage.setItem('os-lang-choice', lang); }catch(e){}
+    });
   });
 
   /* header */

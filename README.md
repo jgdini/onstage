@@ -5,7 +5,7 @@ Estático (HTML/CSS/JS, sem build). Rodar: `preview_start onstage` (porta 5560) 
 ## Estado
 - Home completa: hero, números, 5 programas, 6 serviços, processo, sobre, destinos, galeria, depoimentos, time, FAQ, briefing em 3 etapas, footer.
 - Página modelo de vertical: `professional-development.html` (as outras 4 seguem o mesmo molde).
-- EN / PT-BR / ES via `assets/js/i18n.js` (tabela única). Idioma detectado pelo navegador; `?lang=pt` força.
+- EN / PT-BR / ES via `assets/js/i18n.js` (tabela única). Inglês é sempre o padrão (site americano); PT/ES só aparecem se o visitante clicar no seletor (fica lembrado) ou usar `?lang=pt`.
 - SEO/GEO: JSON-LD (Organization, WebSite, FAQPage, Service), hreflang, `llms.txt`, `robots.txt` liberando bots de IA, `sitemap.xml`.
 
 ## Pendências do cliente (botão "Destacar campos" no canto mostra todas na tela)
