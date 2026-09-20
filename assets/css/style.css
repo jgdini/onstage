@@ -2,7 +2,7 @@
 :root{
   --ink:#0A1024; --ink-2:#111a38; --ink-3:#1b2650;
   --paper:#F5F0E6; --paper-2:#EDE6D6; --white:#fff;
-  --gold:#E0A93B; --gold-2:#f3c66b; --teal:#2E8B8B;
+  --brand:#41BEC4; --brand-d:#178494; --gold:#E0A93B; --gold-2:#f3c66b; --teal:#2E8B8B;
   --text:#1a2036; --muted:#5d647a; --line:rgba(10,16,36,.14); --line-l:rgba(255,255,255,.16);
   --sans:'Segoe UI Variable Display','Segoe UI Variable Text','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Roboto,Arial,sans-serif; --serif:var(--sans);
   --max:1240px; --gut:clamp(20px,4vw,48px); --r:14px;
@@ -92,10 +92,12 @@ section{padding:clamp(72px,10vw,140px) 0}
 /* stats */
 .stats{padding:0;background:var(--paper-2)}
 .stats-grid{display:grid;grid-template-columns:repeat(4,1fr)}
-.stat{padding:44px 28px;border-left:1px solid var(--line)}
+.stat{padding:64px 28px;border-left:1px solid var(--line)}
 .stat:first-child{border-left:0}
-.stat b{font-family:var(--serif);font-size:clamp(2.4rem,4.4vw,3.8rem);font-weight:600;display:block;line-height:1;font-variant-numeric:tabular-nums;letter-spacing:-.03em}
-.stat span{font-size:.88rem;color:var(--muted);display:block;margin-top:10px;max-width:22ch}
+.stat b,.stat b span{color:var(--brand-d)}
+.stat b{font-family:var(--serif);font-size:clamp(3.6rem,8.2vw,7rem);font-weight:600;display:block;line-height:1;font-variant-numeric:tabular-nums;letter-spacing:-.03em}
+.stat .slot{background:none;border:0;padding:0}
+.stat>span{font-size:.95rem;color:var(--muted);display:block;margin-top:14px;max-width:24ch}
 
 /* programs index */
 .programs{background:var(--paper)}
