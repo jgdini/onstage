@@ -119,6 +119,7 @@
       if (p < 1) requestAnimationFrame(tick);
     }
     requestAnimationFrame(tick);
+    setTimeout(function(){ el.textContent = end; }, dur + 400);
   }
   if (reduce || !('IntersectionObserver' in window)) return;
   els.forEach(function(el){ el.textContent = '0'; });
@@ -126,6 +127,6 @@
     es.forEach(function(e){
       if (e.isIntersecting){ run(e.target); io.unobserve(e.target); }
     });
-  }, { threshold: .6 });
+  }, { threshold: .25 });
   els.forEach(function(el){ io.observe(el); });
 })();
