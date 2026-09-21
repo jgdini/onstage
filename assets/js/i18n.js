@@ -12,14 +12,14 @@ window.OS_T = [
 
 ['hero.eyebrow','Destination management · Orlando, Florida','Destination management · Orlando, Flórida','Destination management · Orlando, Florida'],
 ['hero.h1','Your group takes the <em>stage.</em> We run everything behind it.','Seu grupo entra em <em>cena.</em> Nós cuidamos de tudo nos bastidores.','Su grupo sube al <em>escenario.</em> Nosotros manejamos todo detrás.'],
-['hero.lead','OnStage Academy designs and operates meetings, incentive trips and student programs across the United States — one team, from the first brief to the last transfer.','A OnStage Academy desenha e opera reuniões, viagens de incentivo e programas estudantis em todos os Estados Unidos — uma equipe só, do primeiro briefing ao último transfer.','OnStage Academy diseña y opera reuniones, viajes de incentivo y programas estudiantiles en todo Estados Unidos: un solo equipo, desde el primer brief hasta el último traslado.'],
+['hero.lead','OnStage Academy designs and runs meetings, incentive trips and student programs across the United States. You deal with one team, from the first brief to the last transfer.','A OnStage Academy cria e opera reuniões, viagens de incentivo e programas estudantis em todos os Estados Unidos. Você fala com uma equipe só, do primeiro briefing ao último transfer.','OnStage Academy crea y opera reuniones, viajes de incentivo y programas estudiantiles en todo Estados Unidos. Usted trata con un solo equipo, del primer brief al último traslado.'],
 ['hero.cta1','Plan your program','Planeje seu programa','Planifique su programa'],
 ['hero.cta2','Explore programs','Ver programas','Ver programas'],
-['hero.card.h','Why groups choose us','Por que os grupos nos escolhem','Por qué nos eligen los grupos'],
+['hero.card.h','What you get','O que você recebe','Qué recibe'],
 ['hero.card.1','A single partner for hotels, venues, transport and activities','Um único parceiro para hotéis, espaços, transporte e atividades','Un solo socio para hoteles, espacios, transporte y actividades'],
 ['hero.card.2','Backed by Aloha of America, 14 years in event management','Respaldada pela Aloha of America, 14 anos em gestão de eventos','Respaldada por Aloha of America, 14 años en gestión de eventos'],
 ['hero.card.3','Service in English, Portuguese and Spanish','Atendimento em inglês, português e espanhol','Atención en inglés, portugués y español'],
-['hero.card.4','Programs built around your goals, not a catalog','Programas criados para os seus objetivos, não de catálogo','Programas creados para sus objetivos, no de catálogo'],
+['hero.card.4','Programs designed around your goals','Programas desenhados em torno dos seus objetivos','Programas diseñados en torno a sus objetivos'],
 ['marq.1','Meetings','Reuniões','Reuniones'],['marq.2','Incentive trips','Viagens de incentivo','Viajes de incentivo'],['marq.3','Sports camps','Camps esportivos','Campamentos deportivos'],['marq.4','Student travel','Turismo estudantil','Viajes estudiantiles'],['marq.5','Team building','Team building','Team building'],['marq.6','Gala dinners','Jantares de gala','Cenas de gala'],['marq.7','Technical visits','Visitas técnicas','Visitas técnicas'],
 
 ['stat.1','years of event management behind us (Aloha of America)','anos de gestão de eventos por trás de nós (Aloha of America)','años de gestión de eventos detrás de nosotros (Aloha of America)'],
@@ -33,7 +33,7 @@ window.OS_T = [
 ['prog.1.t','Professional Development','Desenvolvimento Profissional','Desarrollo Profesional'],
 ['prog.1.d','Conferences, trainings and leadership programs with the right venues, speakers and interpreters.','Conferências, treinamentos e programas de liderança com os espaços, palestrantes e intérpretes certos.','Conferencias, capacitaciones y programas de liderazgo con los espacios, ponentes e intérpretes adecuados.'],
 ['prog.2.t','Incentive Programs','Programas de Incentivo','Programas de Incentivo'],
-['prog.2.d','Reward trips people actually talk about: VIP access, gala evenings and curated adventures.','Viagens de premiação sobre as quais as pessoas realmente comentam: acessos VIP, noites de gala e aventuras exclusivas.','Viajes de premio de los que la gente realmente habla: accesos VIP, noches de gala y aventuras exclusivas.'],
+['prog.2.d','Reward trips for teams and partners, with VIP access, gala evenings and curated activities.','Viagens de premiação para equipes e parceiros, com acesso VIP, noites de gala e atividades exclusivas.','Viajes de premio para equipos y socios, con accesos VIP, noches de gala y actividades exclusivas.'],
 ['prog.3.t','Sporting Programs','Programas Esportivos','Programas Deportivos'],
 ['prog.3.d','Training camps, tournaments and sports immersions with facilities, transport and logistics handled.','Camps de treino, torneios e imersões esportivas com instalações, transporte e logística resolvidos.','Campamentos de entrenamiento, torneos e inmersiones deportivas con instalaciones, transporte y logística resueltos.'],
 ['prog.4.t','Youth Educational Programs','Programas Educacionais para Jovens','Programas Educativos para Jóvenes'],
@@ -42,7 +42,7 @@ window.OS_T = [
 ['prog.5.d','Something that does not fit a box? We design it from a blank page.','Algo que não cabe em nenhuma caixa? Desenhamos do zero.','¿Algo que no cabe en ninguna caja? Lo diseñamos desde cero.'],
 
 ['svc.eyebrow','Services','Serviços','Servicios'],
-['svc.h2','Everything a group needs, <em>under one roof.</em>','Tudo o que um grupo precisa, <em>sob o mesmo teto.</em>','Todo lo que un grupo necesita, <em>bajo un mismo techo.</em>'],
+['svc.h2','Six services, <em>one team.</em>','Seis serviços, <em>uma equipe.</em>','Seis servicios, <em>un equipo.</em>'],
 ['svc.lead','Use us for the full trip or just the pieces you need.','Contrate a viagem completa ou apenas as peças de que precisa.','Contrátenos para el viaje completo o solo las piezas que necesite.'],
 ['svc.1.t','Hotel Coordination','Coordenação de Hotéis','Coordinación de Hoteles'],
 ['svc.1.d','Group rate negotiation, room blocks, contracting and rooming lists.','Negociação de tarifas de grupo, bloqueios de quartos, contratos e rooming lists.','Negociación de tarifas grupales, bloqueos de habitaciones, contratos y rooming lists.'],
@@ -58,7 +58,7 @@ window.OS_T = [
 ['svc.6.d','Speakers, simultaneous translation, AV setup and staffing.','Palestrantes, tradução simultânea, audiovisual e equipe de apoio.','Ponentes, traducción simultánea, audiovisual y personal de apoyo.'],
 
 ['pro.eyebrow','How it works','Como funciona','Cómo funciona'],
-['pro.h2','From first message to <em>final encore.</em>','Da primeira mensagem ao <em>último bis.</em>','Del primer mensaje al <em>último bis.</em>'],
+['pro.h2','Four steps, <em>brief to follow-up.</em>','Quatro etapas, <em>do briefing ao pós-viagem.</em>','Cuatro etapas, <em>del brief al seguimiento.</em>'],
 ['pro.1.t','Brief','Briefing','Brief'],
 ['pro.1.d','Tell us dates, group profile and goals. A short form or a WhatsApp is enough.','Conte datas, perfil do grupo e objetivos. Um formulário curto ou um WhatsApp bastam.','Cuéntenos fechas, perfil del grupo y objetivos. Un formulario corto o un WhatsApp bastan.'],
 ['pro.2.t','Proposal','Proposta','Propuesta'],
@@ -76,7 +76,7 @@ window.OS_T = [
 ['why.2.t','Speak your language','Falamos o seu idioma','Hablamos su idioma'],
 ['why.2.d','Portuguese, Spanish and English service, plus simultaneous interpretation for meetings.','Atendimento em português, espanhol e inglês, com tradução simultânea para reuniões.','Atención en portugués, español e inglés, con interpretación simultánea para reuniones.'],
 ['why.3.t','Built around people','Feito em torno de pessoas','Hecho en torno a las personas'],
-['why.3.d','Trust, partnership, wellness and fun are values we plan with, not slogans.','Confiança, parceria, bem-estar e diversão são valores com que planejamos, não slogans.','Confianza, alianza, bienestar y diversión son valores con los que planificamos, no eslóganes.'],
+['why.3.d','Trust, partnership, wellness and fun are four of the ten values the team works by.','Confiança, parceria, bem-estar e diversão são quatro dos dez valores que guiam a equipe.','Confianza, alianza, bienestar y diversión son cuatro de los diez valores que guían al equipo.'],
 ['ph.about','Photo: OnStage team at an event','Foto: equipe OnStage em evento','Foto: equipo OnStage en un evento'],
 
 ['dest.eyebrow','Destinations','Destinos','Destinos'],
@@ -92,13 +92,13 @@ window.OS_T = [
 ['gal.5','Team building activity','Atividade de team building','Actividad de team building'],
 ['gal.6','Sports camp, training day','Camp esportivo, dia de treino','Campamento deportivo, día de entrenamiento'],
 
-['tes.eyebrow','Clients say','Clientes dizem','Clientes dicen'],
-['tes.h2','Trusted by groups <em>who come back.</em>','Escolhida por grupos <em>que voltam.</em>','Elegida por grupos <em>que vuelven.</em>'],
+['tes.eyebrow','Testimonials','Depoimentos','Testimonios'],
+['tes.h2','What <em>clients say.</em>','O que os <em>clientes dizem.</em>','Lo que <em>dicen los clientes.</em>'],
 ['tes.1','[[Client testimonial goes here. Two or three sentences about what the OnStage team made possible.]]','[[Depoimento do cliente entra aqui. Duas ou três frases sobre o que a equipe OnStage tornou possível.]]','[[El testimonio del cliente va aquí. Dos o tres frases sobre lo que el equipo OnStage hizo posible.]]'],
 ['tes.1c','[[Name, role, company]]','[[Nome, cargo, empresa]]','[[Nombre, cargo, empresa]]'],
 
 ['team.eyebrow','Team','Equipe','Equipo'],
-['team.h2','The people <em>behind the curtain.</em>','As pessoas <em>por trás das cortinas.</em>','Las personas <em>detrás del telón.</em>'],
+['team.h2','Meet the <em>team.</em>','Conheça a <em>equipe.</em>','Conozca al <em>equipo.</em>'],
 ['team.1','CEO & Co-Founder','CEO e Cofundadora','CEO y Cofundadora'],
 ['team.2','Co-Founder & Managing Partner','Cofundadora e Sócia-Gerente','Cofundadora y Socia Gerente'],
 ['team.3','General Manager','Gerente Geral','Gerente General'],
@@ -107,7 +107,7 @@ window.OS_T = [
 ['team.6','Administrative Assistant','Assistente Administrativa','Asistente Administrativa'],
 
 ['faq.eyebrow','FAQ','Perguntas frequentes','Preguntas frecuentes'],
-['faq.h2','Questions we <em>hear often.</em>','Perguntas que <em>ouvimos sempre.</em>','Preguntas que <em>escuchamos seguido.</em>'],
+['faq.h2','Common <em>questions.</em>','Dúvidas <em>comuns.</em>','Dudas <em>comunes.</em>'],
 ['faq.1.q','What is a destination management company (DMC)?','O que é uma destination management company (DMC)?','¿Qué es una destination management company (DMC)?'],
 ['faq.1.a','A DMC is a local partner that plans and operates a group’s program in a destination: hotels, venues, transport, activities and on-site support. You deal with one team instead of many suppliers.','Uma DMC é um parceiro local que planeja e opera o programa de um grupo no destino: hotéis, espaços, transporte, atividades e suporte no local. Você fala com uma equipe em vez de vários fornecedores.','Una DMC es un socio local que planifica y opera el programa de un grupo en el destino: hoteles, espacios, transporte, actividades y apoyo en sitio. Usted trata con un solo equipo en lugar de muchos proveedores.'],
 ['faq.2.q','Which destinations do you cover?','Quais destinos vocês atendem?','¿Qué destinos cubren?'],
@@ -145,13 +145,13 @@ window.OS_T = [
 ['ftr.about','Destination management for groups across the USA. An Aloha of America company.','Destination management para grupos em todos os EUA. Uma empresa Aloha of America.','Destination management para grupos en todo EE. UU. Una empresa Aloha of America.'],
 ['ftr.h1','Explore','Explorar','Explorar'],['ftr.h2','Programs','Programas','Programas'],['ftr.h3','Contact','Contato','Contacto'],
 ['ftr.rights','All rights reserved.','Todos os direitos reservados.','Todos los derechos reservados.'],
-['ftr.proto','Design prototype — content and images to be confirmed by the client.','Protótipo de design — conteúdo e imagens a confirmar pelo cliente.','Prototipo de diseño: contenido e imágenes por confirmar por el cliente.'],
+['ftr.proto','Design prototype. Content and images to be confirmed by the client.','Protótipo de design. Conteúdo e imagens a confirmar pelo cliente.','Prototipo de diseño. Contenido e imágenes por confirmar por el cliente.'],
 ['slots.on','Highlight client to-do fields','Destacar campos para o cliente','Resaltar campos para el cliente'],['slots.off','Hide highlights','Ocultar destaques','Ocultar resaltados'],
 
 /* vertical page: professional development */
 ['pd.crumb','Professional Development','Desenvolvimento Profissional','Desarrollo Profesional'],
-['pd.h1','Meetings that <em>move people.</em>','Reuniões que <em>movem pessoas.</em>','Reuniones que <em>mueven a las personas.</em>'],
-['pd.lead','Conferences, trainings and leadership programs in the right place, with the right speakers, the right language and no logistics headaches.','Conferências, treinamentos e programas de liderança no lugar certo, com os palestrantes certos, no idioma certo e sem dor de cabeça logística.','Conferencias, capacitaciones y programas de liderazgo en el lugar adecuado, con los ponentes adecuados, en el idioma adecuado y sin dolores de cabeza logísticos.'],
+['pd.h1','Conferences and trainings, <em>run end to end.</em>','Conferências e treinamentos, <em>do início ao fim.</em>','Conferencias y capacitaciones, <em>de principio a fin.</em>'],
+['pd.lead','Venues, speakers, interpreters, hotels and transport for conferences, trainings and leadership programs, handled by one team.','Espaços, palestrantes, intérpretes, hotéis e transporte para conferências, treinamentos e programas de liderança, tudo com uma equipe só.','Espacios, ponentes, intérpretes, hoteles y transporte para conferencias, capacitaciones y programas de liderazgo, con un solo equipo.'],
 ['pd.h2a','What is <em>included.</em>','O que está <em>incluído.</em>','Qué está <em>incluido.</em>'],
 ['pd.li1','Venue and meeting room sourcing','Seleção de espaços e salas de reunião','Selección de espacios y salas de reunión'],
 ['pd.li2','Speakers, facilitators and content partners','Palestrantes, facilitadores e parceiros de conteúdo','Ponentes, facilitadores y socios de contenido'],
@@ -168,6 +168,6 @@ window.OS_T = [
 ['pd.d3t','Technical visit','Visita técnica','Visita técnica'],['pd.d3p','Company or facility visit related to the group’s field.','Visita a empresa ou instalação ligada à área do grupo.','Visita a una empresa o instalación relacionada con el área del grupo.'],
 ['pd.d4t','Team & leisure','Equipe e lazer','Equipo y ocio'],['pd.d4p','Team-building in the morning, theme park in the afternoon.','Team building de manhã, parque temático à tarde.','Team building por la mañana, parque temático por la tarde.'],
 ['pd.d5t','Closing & departure','Encerramento e partida','Cierre y salida'],['pd.d5p','Closing session, certificates and transfers to the airport.','Sessão de encerramento, certificados e transfers ao aeroporto.','Sesión de cierre, certificados y traslados al aeropuerto.'],
-['pd.cta','Have a program in mind? Let’s shape it.','Tem um programa em mente? Vamos moldá-lo.','¿Tiene un programa en mente? Démosle forma.'],
+['pd.cta','Have a program in mind? Tell us about it.','Tem um programa em mente? Conte pra gente.','¿Tiene un programa en mente? Cuéntenos.'],
 ['pd.cta.b','Request a quote','Solicitar orçamento','Solicitar cotización']
 ];
